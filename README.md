@@ -16,7 +16,7 @@ It is composed of 2 main components:
 
 
 ## Support
-- Windows 10 x64 22H2
+- All x64 Windows builds
 - AMD/Intel
 
 
