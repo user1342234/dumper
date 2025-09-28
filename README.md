@@ -18,7 +18,7 @@ It is composed of 2 main components:
 ## Support
 - Windows 10 x64 22H2
 - AMD/Intel
-Launch ```moonwalk.exe [target_driver_name]```
+
 
 ## Usage
 1. Launch ```moonwalk.exe [target_driver_name]```
